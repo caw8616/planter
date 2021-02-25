@@ -1,0 +1,4 @@
+4 Digit Display -> D2
+Digital Light Sensor -> I2C
+LED BAR -> D4
+MoistureSensor -> A0
